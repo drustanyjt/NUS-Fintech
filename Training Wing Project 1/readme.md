@@ -4,4 +4,4 @@ This was a fun and interesting project that unfortunately came in the middle of 
 
 I would recommend not delving too deeply on these notebooks, if something seems illogical it is likely an oversight.
 
-During the holidays, I will come back again and work on these. I think there's a lot more to learn about model selection that I rush through this time.
+During the holidays, I will come back again and work on these. I think there's a lot more to learn about model selection that I rushed through.
